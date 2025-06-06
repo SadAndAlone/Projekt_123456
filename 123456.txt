@@ -1,1 +1,2 @@
 To jest plik indeksu
+ZMIANA OD KATALOGU 1
