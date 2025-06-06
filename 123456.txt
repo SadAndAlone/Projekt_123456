@@ -1,3 +1,2 @@
-To jest plik indeksu
-ZMIANA OD KATALOGU 1
-INNA ZMIANA OD KATALOGU 2
+ZMIANA FINALNA – konflikt rozwiązany ręcznie
+Zmiana w gałęzi test_branch
