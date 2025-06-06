@@ -1,2 +1,3 @@
 To jest plik indeksu
 ZMIANA OD KATALOGU 1
+INNA ZMIANA OD KATALOGU 2
